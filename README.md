@@ -1,2 +1,2 @@
-# Language-Classification-
-Machine learning-based Language classification of multilingual content.
+# Machine learning-based Language classification of multilingual content written in Bengali.
+
